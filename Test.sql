@@ -8,6 +8,6 @@ DECLARE @lastName AS varchar(10);
 SELECT @lastName = 'Ulate'
 SELECT @lastName; 
 
-SELECT @number = 11;
+SELECT @number = 12;
 SELECT @number;
 
